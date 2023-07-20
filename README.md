@@ -29,4 +29,6 @@
 <br/>
 
 ## 4. 자료
+https://data.kostat.go.kr/sbchome/bbs/boardDetail.do?boardId=SBCSBBS_000000017000&postId=BI_00000000000096412&curMenuNo=OPT_08_01_01_0  
+
 ![202206041858038749451](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization/assets/124686375/ad9aa015-903b-493a-b04f-3b4d9cffdc97)
