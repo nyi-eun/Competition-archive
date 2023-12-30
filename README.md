@@ -54,7 +54,21 @@
 <br/>
 
 
-## 5. 자료
+## 5. 팀원 및 담당 역할
+<팀원> 
+전공생 4명
+
+
+<담당 역할>    
+탐색적 데이터 분석
+Data Preprocessing
+Modeling 구현
+
+
+
+
+
+## 6. 자료
 https://www.instagram.com/p/CrKhMqjJeBI/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==    
 
 <img width="336" alt="스크린샷 2023-07-20 214948" src="https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization/assets/124686375/cda6fced-fd4f-4e47-b654-502384883435"> <br/>
