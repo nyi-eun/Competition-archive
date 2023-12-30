@@ -62,9 +62,9 @@
 
 <담당 역할>      
 
-탐색적 데이터 분석
-Feature Engineering  
-Modeling 구현  
+탐색적 데이터 분석  
+Feature Engineering    
+Modeling 구현    
 
 
 
