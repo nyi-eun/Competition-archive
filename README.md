@@ -68,9 +68,10 @@
 
 <담당 역할>      
 
-- 탐색적 데이터 분석  
-- Feature Engineering    
-- Modeling 구현    
+- CJ 더마켓 고객 주문 데이터 셋 탐색적 데이터 분석, 전처리 및 피처 엔지니어링 진행
+- RandomForest, LGBM, CatBoost 모델 학습 및 최적화
+- Feature Importance 등의 메서드를 활용한 모델 설명력 평가
+- Weighted Ensemble 진행   
 
 
 
