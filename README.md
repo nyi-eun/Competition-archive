@@ -2,8 +2,6 @@
 <h3 align='center'> [통계청/한국통계진흥원] 2022년 통계데이터 분석·활용대회 </h3>  
 <h4 align='center'> (2022.07. ~ 2022.08.) </h4>
 
-<br/>  
-
 ![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
 &nbsp;
