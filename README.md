@@ -1,6 +1,10 @@
-# CJ 더마켓 고객 예측 모델링 대회 
+<h2 align='center'> CJ 더마켓 고객 예측 모델링 대회 </h2>
+<h3 align='center'> [한국빅데이터학회] 2023 BDA 데이터 분석·활용 공모전 </h3>
+<h4 align='center'> (2023.05.~2023.06.)  
 
 <br/>
+
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## 1. 배경 및 목적
 
