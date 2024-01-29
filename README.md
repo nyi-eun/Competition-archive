@@ -1,6 +1,9 @@
-# 저출산 문제 원인분석 및 입체적 해결방안 제언
+<h2 align='center'> 저출산 문제 원인분석 및 입체적 해결방안 제언 </h2>
+<h3 align='center'> [통계청/한국통계진흥원] (2022.07. ~ 2022.08.)
 
-<br/>
+<br/>  
+
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## 1. 배경 및 목적
 
