@@ -61,14 +61,14 @@
 ## 5. 팀원 및 담당 역할
 <팀원>   
 
-전공생 4명
+- 전공생 4명
 
 
 <담당 역할>      
 
-탐색적 데이터 분석  
-Feature Engineering    
-Modeling 구현    
+- 탐색적 데이터 분석  
+- Feature Engineering    
+- Modeling 구현    
 
 
 
