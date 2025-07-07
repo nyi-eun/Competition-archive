@@ -19,8 +19,11 @@
 
 ```
 Competition-archive/
+
 ├── 2025_LG_Aimers_6th/
+
 ├── CJ-themarket-modeling-competition/
+
 ├── Statistical-Data-Analysis-N-Utilization-Competition/
 
 ```
