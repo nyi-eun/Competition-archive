@@ -19,11 +19,13 @@
 
 ```
 Competition-archive/
-
+│
 ├── 2025_LG_Aimers_6th/
-
+│ # 2025 난임 환자 예측 해커톤
+│
 ├── CJ-themarket-modeling-competition/
-
-├── Statistical-Data-Analysis-N-Utilization-Competition/
-
+│ # CJ THE MARKET 고객 예측 알고리즘 모델링
+│
+└── Statistical-Data-Analysis-N-Utilization-Competition/
+# 통계데이터 분석·활용대회
 ```
